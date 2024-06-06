@@ -2,14 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p><a href='https://mechse.illinois.edu/'>University of Illinois Urbana-Champaign</a></p>
+          <p>M.S. Mechanical Engineering</p>
+          <p>dahuis2@illinois.edu</p>
+          <p><a href='http://motion.cs.illinois.edu/'>Intelligent Motion Lab</a></p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>dahuis2@illinois.edu</p>
     <p>310 East Springfield Ave.</p>
     <p>Champaign, Illinois 61820</p>
 
