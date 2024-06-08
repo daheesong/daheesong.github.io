@@ -98,6 +98,74 @@
       "highlights": ["Provided braille transcription services, converting written text into braille for visually impaired individuals. Ensured accuracy and quality of braille materials while collaborating with a team of volunteers."]
     }
   ],
+    "Courses": [
+    {
+      "name": "Robot Dynamics and Control",
+      "date": "2024 Spring",
+      "issuer": "University of Illinois Urbana Champaign",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Computer Vision",
+      "date": "2024 Spring",
+      "issuer": "University of Illinois Urbana Champaign",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Computer Cntrl of Mech Systems",
+      "date": "2023 Fall",
+      "issuer": "University of Illinois Urbana Champaign",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Introduction to Robotics",
+      "date": "2023 Fall",
+      "issuer": "University of Illinois Urbana Champaign",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Introduction to Bioinformatics",
+      "date": "2022 Spring",
+      "issuer": "Sookmyung Women's University",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Data Mining and Analysis",
+      "date": "2022 Spring",
+      "issuer": "Sookmyung Women's University",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+      {
+      "name": "Artificial Intelligence",
+      "date": "2022 Spring",
+      "issuer": "Sookmyung Women's University",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Machine Learning",
+      "date": "2021 Fall",
+      "issuer": "Sookmyung Women's University",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+      {
+      "name": "Introduction to Robotics",
+      "date": "2021 Fall",
+      "issuer": "Sookmyung Women's University",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Healthcare System Design",
+      "date": "2021 Fall",
+      "issuer": "Sookmyung Women's University",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+      {
+      "name": "Automotive Engineering",
+      "date": "2021 Spring",
+      "issuer": "Sookmyung Women's University",
+      "icon": "fa-solid fa-calendar"
+    }
+  ],
     "skills": [
     {
       "name": "Programming Languages",
@@ -136,20 +204,6 @@
       "language": "French",
       "fluency": "Beginner",
       "icon": ""
-    }
-  ],
-  "Courses": [
-    {
-      "name": "Robot Dynamics and Control",
-      "date": "2024 Spring",
-      "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Computer Vision",
-      "date": "2024 Spring",
-      "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-tag"
     }
   ]
 }

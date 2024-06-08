@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: CV_DahuiSong.pdf
+description: This is my CV. To download my CV, please click on the right above icon. Feel free to contact me with any questions or for additional information. Thank you. 
 toc:
   sidebar: left
 ---
