@@ -98,7 +98,7 @@
       "highlights": ["Provided braille transcription services, converting written text into braille for visually impaired individuals. Ensured accuracy and quality of braille materials while collaborating with a team of volunteers."]
     }
   ],
-    "certificates": [
+    "courses": [
     {
       "name": "Robot Dynamics and Control",
       "date": "2024 Spring",
@@ -109,61 +109,61 @@
       "name": "Computer Vision",
       "date": "2024 Spring",
       "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Computer Cntrl of Mech Systems",
       "date": "2023 Fall",
       "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Introduction to Robotics",
       "date": "2023 Fall",
       "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Introduction to Bioinformatics",
       "date": "2022 Spring",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Data Mining and Analysis",
       "date": "2022 Spring",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-location-dot"
     },
       {
       "name": "Artificial Intelligence",
       "date": "2022 Spring",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Machine Learning",
       "date": "2021 Fall",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-location-dot"
     },
       {
       "name": "Introduction to Robotics",
       "date": "2021 Fall",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Healthcare System Design",
       "date": "2021 Fall",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-location-dot"
     },
       {
       "name": "Automotive Engineering",
       "date": "2021 Spring",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-location-dot"
     }
   ],
     "skills": [
@@ -204,50 +204,6 @@
       "language": "French",
       "fluency": "Beginner",
       "icon": ""
-    }
-  ],
-    "courses": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ]
 }
