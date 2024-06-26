@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ME446 Final Project
-description: complete given obstacle course
-img: assets/img/ME446_1.jpg
-redirect: https://www.hackster.io/dahuis2/me446-final-project-f23812
-importance: 1
+title: Dog Bot 
+description: a dog bot with emotions and fun tricks. 
+img: assets/img/ME461.jpg
+redirect: https://www.hackster.io/the-dawgs/me461-dog-bot-5667ad
+importance: 3
 category: work
 ---
 

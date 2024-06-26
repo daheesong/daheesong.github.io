@@ -1,18 +1,18 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 1
+title: SafeDrive
+description: enhancing road safety with an advanced detection system 
+img: assets/img/CS543_1.jpg
+importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Have you ever wanted a robot arm to complete an obstacle course? Follow our project and find out how you can do the same!
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Things used in this projet: 	
+Thermo Scientific CRS Robot
+TMS320F28335 DRS Controller
 
     ---
     layout: page
