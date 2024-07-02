@@ -3,7 +3,7 @@ layout: page
 title: Rescue Signal Detection and Reporting System
 description: a pose detection algorithm to recognize rescue signals and automatically report them. 
 img: assets/img/1.jpg
-importance: 4
+importance: 2
 category: 2
 ---
 
