@@ -5,7 +5,7 @@ permalink: /projects/
 description: Explore my Projects page to discover the innovative and diverse range of work I am involved in.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [1, 2, 3]
 horizontal: false
 ---
 

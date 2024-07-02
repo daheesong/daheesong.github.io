@@ -9,8 +9,6 @@ profile:
   image: daheesong.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>310 East Springfield Ave.</p>
-    <p>Champaign, Illinois 61820</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

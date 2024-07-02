@@ -5,7 +5,7 @@ description: complete given obstacle course
 img: assets/img/ME446_1.jpg
 redirect: https://www.hackster.io/dahuis2/me446-final-project-f23812
 importance: 1
-category: work
+category: 1
 ---
 
 Every project has a beautiful feature showcase page.

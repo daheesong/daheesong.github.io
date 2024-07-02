@@ -5,7 +5,7 @@ description: a dog bot with emotions and fun tricks.
 img: assets/img/ME461.jpg
 redirect: https://www.hackster.io/the-dawgs/me461-dog-bot-5667ad
 importance: 3
-category: work
+category: 1
 ---
 
 Every project has a beautiful feature showcase page.
