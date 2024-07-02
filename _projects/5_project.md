@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Rescue Signal Detection and Reporting System
+description: a pose detection algorithm to recognize rescue signals and automatically report them. 
 img: assets/img/1.jpg
-importance: 3
+importance: 4
 category: 2
 ---
 
