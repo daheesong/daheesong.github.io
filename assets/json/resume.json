@@ -22,22 +22,22 @@
   },
   "work": [
     {
-      "name": "Research Intern",
-      "position": "Intelligent Motion Lab",
+      "name": "Graduate Research Assistant",
+      "position": "Intelligent Motion Laboratory",
       "url": "http://motion.cs.illinois.edu/",
       "startDate": "2024-02",
-      "endDate": "Present",
-      "summary": "Robot Control, Robot Manipulation, Computer Vision, Human-robot Interaction (HRI)",
-      "highlights": ["Add Something"]
+      "endDate": "2024-09",
+      "summary": "Robot Control, Computer Vision, Human-robot Interaction (HRI)",
+      "highlights": ["Developed a robotic eye examination system using optical coherence tomography for the Eye Exam Robot project with Duke University and the National Institutes of Health."], ["Calibrated hardware setup for accurate data collection and Conducted qualitative and quantitative stress tests and limitation analysis to ensure safe and reliable control of the system."]
     },
       {
-      "name": "Research Intern",
-      "position": "Intelligent Biomedical Systems Lab",
+      "name": "Undergraduate Research Assistant",
+      "position": "Autonomous Mechanical Systems Laboratory ",
       "url": "https://sim-research.org/",
-      "startDate": "2020-04-01",
-      "endDate": "2022-03-01",
-      "summary": "Robotics, Healthcare Systems, Computer Vision, Machine Learning",
-      "highlights": ["Add Something"]
+      "startDate": "2020-04",
+      "endDate": "2022-03",
+      "summary": "Control, Healthcare System, Computer Vision, Machine Learning",
+      "highlights": ["Researched computer vision and biosensors for wearable technology."], ["Developed a model for non-contact, video-based physiological estimation for the First Vision for Vitals Challenge, raking 4th place."], ["Created a ML model for classifying driver inattentive behaviors in the Driver Distraction Detection System project."]
     }
   ],
   "education": [
@@ -49,8 +49,6 @@
       "studyType": "Master's degree",
       "startDate": "2023-08",
       "endDate": "2025-05",
-      "score": "10",
-      "courses": ["Supervised by Kris Hauser"]
     },
       {
       "institution": "Sookmyung Women's University, Seoul, South Korea",
@@ -60,30 +58,24 @@
       "studyType": "Bachelor's degree",
       "startDate": "2019-03",
       "endDate": "2023-02",
-      "score": "10",
-      "courses": ["Supervised by JooYong Sim"]
     }
   ],
     "interests": [
     {
       "name": "Robotics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Robot Control",
-        "Robot Manipulation",
-        "Human Robot Interaction",
-        "Robot locomotion",
-        "Intelligent Vehicles"
-      ]
+    },
+    {
+      "name": "Automation",
+      "icon": "fa-solid fa-tag",
+    },
+    {
+      "name": "Control",
+      "icon": "fa-solid fa-tag",
     },
       {
       "name": "Computer Vision",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Sensor Technology"
-      ]
     }
   ], 
     "volunteer": [
@@ -99,70 +91,88 @@
   ],
     "courses": [
     {
+      "name": "Data Science Analytics using Probabilistic Graph Models",
+      "date": "2024 Fall",
+      "issuer": "University of Illinois Urbana Champaign",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Social Spaces on the Internet",
+      "date": "2024 Fall",
+      "issuer": "University of Illinois Urbana Champaign",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Mathematical Methods",
+      "date": "2024 Fall",
+      "issuer": "University of Illinois Urbana Champaign",
+      "icon": "fa-solid fa-tag"
+    },
+    {
       "name": "Robot Dynamics and Control",
       "date": "2024 Spring",
       "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Computer Vision",
       "date": "2024 Spring",
       "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Computer Cntrl of Mech Systems",
       "date": "2023 Fall",
       "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Introduction to Robotics",
       "date": "2023 Fall",
       "issuer": "University of Illinois Urbana Champaign",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Introduction to Bioinformatics",
       "date": "2022 Spring",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Data Mining and Analysis",
       "date": "2022 Spring",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
       {
       "name": "Artificial Intelligence",
       "date": "2022 Spring",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Machine Learning",
       "date": "2021 Fall",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
       {
       "name": "Introduction to Robotics",
       "date": "2021 Fall",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Healthcare System Design",
       "date": "2021 Fall",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
       {
       "name": "Automotive Engineering",
       "date": "2021 Spring",
       "issuer": "Sookmyung Women's University",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     }
   ],
     "skills": [
@@ -182,9 +192,10 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "AutoCAD",
+        "3D Printing",
         "Simulink",
         "LabVIEW",
-        "ROS"
+        "Robot Operating System"
       ]
     }
   ],  
