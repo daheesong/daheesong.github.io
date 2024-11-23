@@ -28,7 +28,7 @@
       "startDate": "2024-02",
       "endDate": "2024-09",
       "summary": "Robot Control, Computer Vision, Human-robot Interaction (HRI)",
-      "highlights": ["Developed a robotic eye examination system using optical coherence tomography for the Eye Exam Robot project with Duke University and the National Institutes of Health."], ["Calibrated hardware setup for accurate data collection and Conducted qualitative and quantitative stress tests and limitation analysis to ensure safe and reliable control of the system."]
+      "highlights": ["Developed a robotic eye examination system using optical coherence tomography for the Eye Exam Robot project with Duke University and the National Institutes of Health."]
     },
       {
       "name": "Undergraduate Research Assistant",
@@ -37,7 +37,7 @@
       "startDate": "2020-04",
       "endDate": "2022-03",
       "summary": "Control, Healthcare System, Computer Vision, Machine Learning",
-      "highlights": ["Researched computer vision and biosensors for wearable technology."], ["Developed a model for non-contact, video-based physiological estimation for the First Vision for Vitals Challenge, raking 4th place."], ["Created a ML model for classifying driver inattentive behaviors in the Driver Distraction Detection System project."]
+      "highlights": ["Researched computer vision and biosensors for wearable technology."]
     }
   ],
   "education": [
