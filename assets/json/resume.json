@@ -64,18 +64,14 @@
     {
       "name": "Robotics",
       "icon": "fa-solid fa-tag",
-    },
-    {
-      "name": "Automation",
-      "icon": "fa-solid fa-tag",
-    },
-    {
-      "name": "Control",
-      "icon": "fa-solid fa-tag",
-    },
-      {
-      "name": "Computer Vision",
-      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     }
   ], 
     "volunteer": [
