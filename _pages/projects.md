@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Explore my Projects page to discover the innovative and diverse range of work I am involved in.
+description: Explore my Projects page to discover the innovative and diverse range of work I am engaged in.
 nav: true
 nav_order: 3
 display_categories: [1, 2, 3]
