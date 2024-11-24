@@ -7,18 +7,20 @@
       value: 30th September 2000
     - name: Email
       value: dahuis2@illinois.edu
+    - name: Languages
+      value: Korean(native) and English(fluent)
 
 - title: Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant
       institution: Intelligent Motion Laboratory, University of Illinois at Urbana-Champaign
-      year: 02.2024 - 09.2924
+      year: 02.2024 - 09.2024
       description:
         - Developed a robotic eye examination system using optical coherence tomography for the Eye Exam Robot project with Duke University and the National Institutes of Health.
         - Calibrated hardware setup for accurate data collection and Conducted qualitative and quantitative stress tests and limitation analysis to ensure safe and reliable control of the system.
     - title: Undergraduate Research Assistant
-      institution: Autonomous Mechanical Systems Laboratory, Sookmyung Womens University
+      institution: Autonomous Mechanical Systems Laboratory, Sookmyung Women's University
       year: 04.2020-03.2022
       description:
         - Researched computer vision and biosensors for wearable technology.
@@ -29,13 +31,19 @@
   type: time_table
   contents:
     - title: Master's degree
-      institution: <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign, Champaign, United States</a>
-      area: Mechanical Engineering
+      institution: <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, Champaign, United States
+      items: Mechanical Engineering
       year: 08.2023 - 05.2025
+      
     - title: Bachelor's degree
-      institution: Sookmyung Women's University, Seoul, South Korea
-      area: Mechanical Engineering and Software Engineering
+      institution: <a href="https://www.sookmyung.ac.kr/kr/index.do">Sookmyung Women's University</a>, Seoul, South Korea
+      items: Mechanical Engineering and Software Engineering
       year: 03.2019 - 02.2023
+      
+- title: Academic Interests
+  type: list 
+  contents:
+    - Robotics, Control, Automation, Computer Vision, Artificial Intelligence, Machine Learning.
 
 - title: Courses
   type: time_table
@@ -55,37 +63,60 @@
     - title: Computer Vision
       institution: University of Illinois at Urbana-Champaign
       year: Spring 2024
-
-      
-      
-      
-      
-      
+    - title: Computer Cntrl of Mech Systems
+      institution: University of Illinois at Urbana-Champaign
+      year: Fall 2023
+    - title: Introduction to Robotics
+      institution: University of Illinois at Urbana-Champaign
+      year: Fall 2023
+    - title: Introduction to Bioinformatics
+      institution: Sookmyung Women's University
+      year: Spring 2022
+    - title: Data Mining and Analysis
+      institution: Sookmyung Women's University
+      year: Spring 2022
+    - title: Artificial Intelligence
+      institution: Sookmyung Women's University
+      year: Spring 2022
+    - title: Machine Learning
+      institution: Sookmyung Women's University
+      year: Fall 2021
+    - title: Introduction to Robotics
+      institution: Sookmyung Women's University
+      year: Fall 2021
+    - title: Healthcare System Design
+      institution: Sookmyung Women's University
+      year: Fall 2021
+    - title: Automotive Engineering
+      institution: Sookmyung Women's University
+      year: Spring 2021
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: Fall 2020
+      title: Academic Exceleence Scholarship
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Sookmyung Women's University, in recognition of outstanding achievement
+    - year: Spring 2021
+      title: Research Support Scholarship
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
+        - Sookmyung Women's University
+    - year: Spring 2021
+      title: Academic Exceleence Scholarship
+      items:
+        - Sookmyung Women's University, in recognition of outstanding achievement
+    - year: Fall 2021
+      title: Research Support Scholarship
+      items:
+        - Sookmyung Women's University
+        
+- title: Volunteer
+  type: time_table
   contents:
-    - title: Topic 1.
+    - title: <a href="https://bl.sen.sc.kr/index.do">Seoul National School for the Blind</a>
+    - year: 09.2022 - 12.2022
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Braille Input Assistance for Visually Imparied
+        - Provided braille transcription services, converting written text into braille for visually impaired individuals. Ensured accuracy and quality of braille materials while collaborating with a team of volunteers.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
