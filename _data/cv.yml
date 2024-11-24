@@ -5,68 +5,62 @@
       value: Dahui Song
     - name: Date of Birth
       value: 30th September 2000
-    - name: Languages
-      value: English, Korean
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - name: Email
+      value: dahuis2@illinois.edu
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Intelligent Motion Laboratory, University of Illinois at Urbana-Champaign
+      year: 02.2024 - 09.2924
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed a robotic eye examination system using optical coherence tomography for the Eye Exam Robot project with Duke University and the National Institutes of Health.
+        - Calibrated hardware setup for accurate data collection and Conducted qualitative and quantitative stress tests and limitation analysis to ensure safe and reliable control of the system.
+    - title: Undergraduate Research Assistant
+      institution: Autonomous Mechanical Systems Laboratory, Sookmyung Womens University
+      year: 04.2020-03.2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - Researched computer vision and biosensors for wearable technology.
+        - Developed a model for non-contact, video-based physiological estimation for the First Vision for Vitals Challenge, raking 4th place.
+        - Created a ML model for classifying driver inattentive behaviors in the Driver Distraction Detection System project.
+      
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Master's degree
+      institution: <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign, Champaign, United States</a>
+      area: Mechanical Engineering
+      year: 08.2023 - 05.2025
+    - title: Bachelor's degree
+      institution: Sookmyung Women's University, Seoul, South Korea
+      area: Mechanical Engineering and Software Engineering
+      year: 03.2019 - 02.2023
+
+- title: Courses
+  type: time_table
+  contents:
+    - title: Data Science Analytics using Probabilistic Graph Models
+      institution: University of Illinois at Urbana-Champaign
+      year: Fall 2024
+    - title: Social Spaces on the Internet
+      institution: University of Illinois at Urbana-Champaign
+      year: Fall 2024
+    - title: Mathematical Methods
+      institution: University of Illinois at Urbana-Champaign
+      year: Fall 2024
+    - title: Robot Dynamics and Control
+      institution: University of Illinois at Urbana-Champaign
+      year: Spring 2024
+    - title: Computer Vision
+      institution: University of Illinois at Urbana-Champaign
+      year: Spring 2024
+
+      
+      
+      
+      
+      
 
 - title: Honors and Awards
   type: time_table
