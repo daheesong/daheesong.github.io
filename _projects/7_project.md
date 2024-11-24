@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dog Bot 
-description: a dog bot with emotions and fun tricks. 
+description: an interactive robot dog inspired by the 2005 iDog
 img: assets/img/ME461.jpg
 redirect: https://www.hackster.io/the-dawgs/me461-dog-bot-5667ad
 importance: 3
