@@ -48,6 +48,9 @@
 - title: Courses
   type: time_table
   contents:
+    - title: LLM Reasoning for Engineering
+      institution: University of Illinois at Urbana-Champaign
+      year: Spring 2025
     - title: Data Science Analytics using Probabilistic Graph Models
       institution: University of Illinois at Urbana-Champaign
       year: Fall 2024
