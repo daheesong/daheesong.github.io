@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Explore my Projects page to discover the innovative and diverse range of work I am engaged in.
+description: Explore the Projects page to discover the diverse research and development initiatives I’m pursuing.
 nav: true
 nav_order: 3
-display_categories: [1, 2, 3]
+display_categories: [2025, 1, 2, 3]
 horizontal: false
 ---
 
