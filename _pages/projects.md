@@ -5,7 +5,7 @@ permalink: /projects/
 description: Explore the Projects page to discover the diverse research and development initiatives I’m pursuing.
 nav: true
 nav_order: 3
-display_categories: [2025, 1, 2, 3]
+display_categories: [2025, 2024, 2023, 1, 2, 3]
 horizontal: false
 ---
 

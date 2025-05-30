@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Dog Bot 
-description: an interactive robot dog inspired by the 2005 iDog
-img: assets/img/ME461.jpg
+description: An interactive robot dog inspired by the 2005 iDog
+img: assets/img/DogBot.jpg
 redirect: https://www.hackster.io/the-dawgs/me461-dog-bot-5667ad
-importance: 3
-category: 1
+importance: 1
+category: 2023
 ---
 
 Every project has a beautiful feature showcase page.
