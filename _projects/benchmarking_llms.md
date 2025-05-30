@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Toward Engineering AGI: Benchmarking the Engineering Design Capabilities of LLMs
-description: " change " 
+title: Toward Engineering AGI
+description: Benchmarking the Engineering Design Capabilities of LLMs
 img: assets/img/Benchmarking_LLMs.jpg
-redirect: https://www.hackster.io/dahuis2/me446-final-project-f23812
+redirect: /assets/pdf/Benchmarking_paper.pdf
 importance: 1
 category: 2025
 ---
