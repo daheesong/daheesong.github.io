@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Cyber Sailer
-description: " Change "
+description: Build hardware and real-time sensor/GPU-fused path planning for an autonomous land yacht
 img: assets/img/Cyber_Sailer.jpg
-redirect: https://www.hackster.io/the-dawgs/me461-dog-bot-5667ad
+redirect: /assets/pdf/preparing.pdf
 importance: 2
 category: 2025
 ---
