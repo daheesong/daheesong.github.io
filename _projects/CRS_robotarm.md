@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Impedance-Controlled Obstacle Course Robotic Arm
-description: The robotic arm navigates an obstacle course—including obstacle avoidance, a zig-zag maze, and precise force application
+title: Smart Obstacle Course Robotic Arm
+description: Navigates an obstacle course—avoiding barriers, a zig-zag maze, and applying precise force
 img: assets/img/CRS_robot_arm.jpg
 redirect: https://www.hackster.io/dahuis2/me446-final-project-f23812
 importance: 2
