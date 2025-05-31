@@ -5,5 +5,5 @@ description: a model for non-contact, video-based physiological estimation for t
 redirect: https://vision4vitals.github.io/
 img: assets/img/v4v.jpg
 importance: 1
-category: 3
+category: 2021
 ---
