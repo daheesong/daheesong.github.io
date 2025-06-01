@@ -14,8 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p>M.S. Mechanical Engineering @ <a href='https://mechse.illinois.edu/'>University of Illinois at Urbana-Champaign</a></p>
-<p>B.S. Mechanical Engineering and Software Engineering @ <a href='https://www.sookmyung.ac.kr/en/index.do'>Sookmyung Women's University</a></p>
+<p>M.S. in Mechanical Engineering @ <a href='https://mechse.illinois.edu/'>University of Illinois at Urbana-Champaign</a></p>
+<p>B.S. in Mechanical Engineering and Software Engineering @ <a href='https://www.sookmyung.ac.kr/en/index.do'>Sookmyung Women's University</a></p>
 
 Hello, and welcome to my website! 
 
