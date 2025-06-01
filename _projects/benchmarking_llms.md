@@ -3,7 +3,7 @@ layout: page
 title: Toward Engineering AGI
 description: Benchmarking the Engineering Design Capabilities of LLMs
 img: assets/img/Benchmarking_LLMs.jpg
-redirect: https://openreview.net/forum?id=Wmsnx7EPel
+redirect: /assets/pdf/Toward_Engineering.pdf
 importance: 1
 category: 2025
 ---
