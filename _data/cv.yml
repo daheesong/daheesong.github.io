@@ -14,26 +14,29 @@
   type: time_table
   contents:
     - title: Graduate Resesarch Assistant 
-      institution: Center for Autonomy
+      institution: Center for Autonomy, University of Illinois at Urbana-Champaign
       year: 09.2024 - 05.2025
       description: 
+        - Designed hardware components for an autonomous land yacht using AutoCAD, optimizing structure integrity for stable navigation across diverse terrains.
+        - Developed navigation, path planning, and obstacle avoidance algorithms by fusing sensor and GPU data for real-time autonomy.
       
     - title: Graduate Research Assistant
       institution: Intelligent Motion Laboratory, University of Illinois at Urbana-Champaign
       year: 02.2024 - 09.2024
       description:
-        - Developed a robotic eye examination system using optical coherence tomography for the Eye Exam Robot project with Duke University and the National Institutes of Health.
-        - Calibrated hardware setup for accurate data collection and Conducted qualitative and quantitative stress tests and limitation analysis to ensure safe and reliable control of the system.
+        - Contributed to a robotic OCT eye examination system in collaboration with Duke University and the NIH. Collected and preprocessed datasets by annotating facial keypoints on public images and those captured in the project environment via a custom PyTorch workflow.
+        - Led qualitative and quantitative stress tests to identify system limitations, thoroughly documented performance shortcomings, fine-tuned model hyperparameters, and enhanced system reliability across varied operating conditions.
+        - Designed a custom four-point calibration within ROS using C++ to refine depth estimation from ZED camera data Benchmarked against the standard approach, achieving a 5% gain in depth accuracy under various conditions.
         
     - title: Undergraduate Research Assistant
       institution: Autonomous Mechanical Systems Laboratory, Sookmyung Women's University
       year: 04.2020-03.2022
       description:
-        - Researched computer vision and biosensors for wearable technology.
-        - Developed a model for non-contact, video-based physiological estimation for the First Vision for Vitals Challenge, raking 4th place.
-        - Created a ML model for classifying driver inattentive behaviors in the Driver Distraction Detection System project.
-      
-      
+        - Preprocessed video data for the First Vision for Vitals Challenge by extracting regions of interest and using pyVHR for remote heart rate estimation, contributing to a model that achieved 4th place in the competition.
+        - Refined a 70K image dataset for the AI-Hub Driver Distraction Detection project by removing duplicates and mislabeled samples, and extracting key visual features to ensure robust training inputs.
+        - Trained and fine-tuned a DNN classifier, leveraging TensorFlow and scikit-learn for hyperparameter sweeps, improving detection accuracy by 15% over the baseline.
+
+
       
 - title: Education
   type: time_table
@@ -41,22 +44,29 @@
     - title: Master's degree
       institution: <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>, Champaign, IL, USA
       items: Mechanical Engineering
-      year: Aug 2023 - May 2025
+      year: 08.2023 - 05.2025
       
     - title: Bachelor's degree
       institution: <a href="https://www.sookmyung.ac.kr/kr/index.do">Sookmyung Women's University</a>, Seoul, South Korea
       items: Mechanical Systems Engineering and Software Engineering
-      year: Mar 2019 - Feb 2023
+      year: 03.2019 - 02.2023
       
       
       
 - title: Academic Interests
-  type: list 
+  type: map
   contents:
-    - Robotics Dynamics and Control, Robot Navigation and SLAM, Computer Vision, Machine Learning, Sensor Fusion.
-
-
-
+    - name: Robotics & Autonomous Systems
+      value: Development of intelligent robot capable of autonomous decision-making in real-world environments.
+    - name: Motion & Path Planning
+      value: Algorithms for efficient, real-time navigation in dynamic and uncertain settings.
+    - name: Control Systems
+      value: Adaptive control strategies integrating sensor feedback and real-time data processing.
+    - name: AI & ML
+      value: Using deep learning and computer vision to enable intelligent perception and autonomous decision-making.
+      
+      
+      
 - title: Courses
   type: time_table
   contents:
@@ -134,7 +144,7 @@
   type: time_table
   contents:
     - title: <a href="https://bl.sen.sc.kr/index.do">Seoul National School for the Blind</a>
-    - year: Sep 2022 - Dec 2022
+    - year: 09.2022 - 12.2022
       items:
         - Braille Input Assistance for Visually Impaired
         - Provided Braille transcription services, converting print text into Braille for visually impaired individuals and ensuring accuracy in collaboration with a team of volunteers.
