@@ -3,7 +3,7 @@ layout: page
 title: Cyber Sailer
 description: Build hardware and real-time sensor/GPU-fused path planning for an autonomous land yacht
 img: assets/img/Cyber_Sailer.jpg
-redirect: /assets/pdf/preparing.pdf
+redirect: /assets/pdf/Cyber_Sailer.pdf
 importance: 2
 category: 2025
 ---

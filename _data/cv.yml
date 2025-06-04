@@ -143,7 +143,7 @@
 - title: Volunteer
   type: time_table
   contents:
-    - title: <a href="https://bl.sen.sc.kr/index.do">Seoul National School for the Blind</a>
+    - institution: <a href="https://bl.sen.sc.kr/index.do">Seoul National School for the Blind</a>
     - year: 09.2022 - 12.2022
       items:
         - Braille Input Assistance for Visually Impaired
