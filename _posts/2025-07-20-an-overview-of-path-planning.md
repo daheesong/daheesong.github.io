@@ -4,7 +4,7 @@ title: An Overview of Path Planning
 date: 2025-07-20 09:40:30
 description: reviews the basic concepts of path planning and summarizes the existing path planning algorithms
 tags: path_planning
-
+categories: sample-posts
 ---
 
 Path planning(경로 계획)의 개념은 다음과 같습니다: 환경 정보를 얼마나 알고 있는가에 따라 환경 정보가 완전히 알려진 global path planning과 부분적으로 환경 정보가 알려진 local path planning으로 나눌 수 있습니다. 또한 환경 내 장애물이 움직이는지의 여부에 따라 장애물이 정적인 static planning과 장애물이 동적인 dynamic planning으로 나뉠 수 있습니다. 그리고, 모바일 로봇 시스템에서 제어 가능한 변수의 수가 로봇의 attitude 공간 차원보다 작은지의 여부에 따라, 제어 가능한 자유도가 전체 자세 공간보다 같거나 많은 (ex, 드론, x-y평면에서 움직이는 로봇 팔) holonomic system의 운동 계획, 그와 반대 되는 non-holonomic system의 운동 계획으로 나뉠 수 있습니다.
